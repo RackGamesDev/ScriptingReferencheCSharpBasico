@@ -1,2 +1,2 @@
 # ScriptingReferencheCSharp
-Lo basico de C# en español
+Lo básico de C# en español
